@@ -1,0 +1,1 @@
+# programma che dato un valore ne restituisce e ne stampa il triplo
